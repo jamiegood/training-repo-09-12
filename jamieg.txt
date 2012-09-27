@@ -5,4 +5,6 @@ hello cruel world!!!
 i want to rebase this from feature1 to maste
 
 
-trying this again
+
+i want to rebase this from feature1 to master
+

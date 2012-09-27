@@ -1,3 +1,5 @@
 jamie was here doing a git lesson
 
 hello cruel world!!!
+
+i want to rebase this from feature1 to master
